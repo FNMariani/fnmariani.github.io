@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 # Education
 ## UNIVERSITY STUDIES
 
@@ -51,9 +50,6 @@ _Year:_ 1st Year In-Progress
 
 ![HOC](/assets/img/HOC.png)
 
-<details>
-  <summary>Click to show info!</summary>
-
 ### Description
 This game was developed for study purpose, the Hour Of Code problems were solved, but instead of using blueprints, the elements were made using C++.
 
@@ -67,17 +63,11 @@ This game was developed for study purpose, the Hour Of Code problems were solved
 * Space - Jump
 * Escape - Exit game
 
-</details>
-
-[link to executable](https://drive.google.com/file/d/1Wz-nC8UVATOlzF4tbx3Q84HaiL_285N6/view?usp=sharing) (450mb~)
 
 ## MarsMarine [Blueprints] [GameDevTV]
 
-![MarsMarine ](/assets/img/MarsMarine.png)
+![MarsMarine ](/assets/img/MarsMarine.jpg)
 
-<details>
-  <summary>Click to show info!</summary>
-  
 ### Description
 This game was developed for study purpose, over the course [Unreal Engine Blueprint Developer: Learn Visual Scripting].
 The player must survive during waves of monsters. This game is a shooter, that use top-down camera.
@@ -95,7 +85,5 @@ The player must survive during waves of monsters. This game is a shooter, that u
 * A - Left
 * D - Right
 * Escape - Exit game
-
-</details>
 
 [Build v1.0](https://github.com/FNMariani/MarsMarine/releases/download/v1.0/MarsMarine.zip)
