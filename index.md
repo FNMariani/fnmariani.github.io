@@ -2,122 +2,88 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Education
+## UNIVERSITY STUDIES
 
-[Link to another page](./another-page.html).
+_Degree:_ Technician in Design and Programming of Videogames
+_Institution:_ Universidad Nacional del Litoral 
 
-There should be whitespace between paragraphs.
+_Degree:_ University Programmer
+_Institution:_ Universidad Nacional de Tucumán
+_Year:_ 1st Year In-Progress
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Skills & Hobbies
+##  SKILLS:
+* English: Intermediate. 
+* Japanese: Basic.
+* Languages: AS3, C++, C#, Python.
+* Engines: HaxeFlixel, Unity3D, UnrealEngine 4, Godot.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+##  HOBBIES:
+* New technologies, hardware and computing in general.
+* Programming, specifically Artificial Intelligence.
+* Videogames, programming as well as playing.
 
 
-### Definition lists can be used with HTML syntax.
+# Projects
+## ÖGA | LAST MINUTE CREW  | 2020 (MPVP2020 1ST PLACE)
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla2</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+![oga](/assets/img/oga.jpg)
+* VR videogame in development, of the psychological-survival horrorgenre.Engine: UE4.
+* Secondary programmer, in support for the lead programmer.
+* First time working with the engine; learned to use blueprints, AI behaviour trees and profiling.Also, learnt about agile development methods (Scrum, User Story Mapping).
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+[Link ÖGA](http://lastminutecrew.com.ar/)
 
-```
-The final element.
-```
+## LAS MISIONES DE CARASUCIA | 3 SIMIOS JUEGAN  | 2019
+
+![Carasucia](https://img.itch.zone/aW1nLzI1MDc4MzUucG5n/original/hrzYdk.png)
+
+* Videogame from a movie made in Misiones, Argentina. 2D Platformer and Runner. Engine: Unity3D.
+* Programmer and game designer.
+* Learnt to work remotely.
+
+[Link itch.io](https://fnmgames.itch.io/misiones-carasucia)
+
+#  Courses:
+## Hour of Code
+
+![HOC](/assets/img/HOC.png)
+
+### Description
+This game was developed for study purpose, the Hour Of Code problems were solved, but instead of using blueprints, the elements were made using C++.
+
+### Features
+* Use your ability to reach the goal.
+* Collect boosters.
+
+### Controls
+
+* WASD - Movement
+* Space - Jump
+* Escape - Exit game
+
+
+## MarsMarine [Blueprints] [GameDevTV]
+
+![MarsMarine ](/assets/img/MarsMarine.jpg)
+
+### Description
+This game was developed for study purpose, over the course [Unreal Engine Blueprint Developer: Learn Visual Scripting].
+The player must survive during waves of monsters. This game is a shooter, that use top-down camera.
+
+### Features
+* Damage during time, while player isn't inside the specific area.
+* Random spawn of monsters.
+* Collectable that recover player's live.
+
+### Controls
+
+* LMB - Shoot
+* W - Forward
+* S - Backward
+* A - Left
+* D - Right
+* Escape - Exit game
+
+[Build v1.0](https://github.com/FNMariani/MarsMarine/releases/download/v1.0/MarsMarine.zip)
