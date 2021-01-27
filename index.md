@@ -81,10 +81,7 @@ The player must survive during waves of monsters. This game is a shooter, that u
 ### Controls
 
 * LMB - Shoot
-* W - Forward
-* S - Backward
-* A - Left
-* D - Right
+* WASD - Move
 * Escape - Exit game
 
 [Build v1.0](https://github.com/FNMariani/MarsMarine/releases/download/v1.0/MarsMarine.zip)
