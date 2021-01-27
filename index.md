@@ -66,7 +66,7 @@ This game was developed for study purpose, the Hour Of Code problems were solved
 
 ## MarsMarine [Blueprints] [GameDevTV]
 
-![MarsMarine ](/assets/img/MarsMarine.jpg)
+![MarsMarine ](/assets/img/MarsMarine.png)
 
 ### Description
 This game was developed for study purpose, over the course [Unreal Engine Blueprint Developer: Learn Visual Scripting].
