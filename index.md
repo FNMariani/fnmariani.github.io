@@ -6,12 +6,12 @@ title: Facundo Nicolas Mariani
 # Education
 ## UNIVERSITY STUDIES
 
-Degree: Technician in Design and Programming of Videogames
-Institution: Universidad Nacional del Litoral 
+_Degree:_ Technician in Design and Programming of Videogames\
+_Institution:_ Universidad Nacional del Litoral 
 
-_Degree:_ University Programmer
-Institution: Universidad Nacional de Tucumán
-_Year:_ 1st Year In-Progress
+_Degree:_ University Programmer\
+_Institution:_ Universidad Nacional de Tucumán\
+_Year:_ 1st Year In-Progress\
 
 # Skills & Hobbies
 ##  SKILLS:
@@ -54,7 +54,7 @@ _Year:_ 1st Year In-Progress
 ### Description
 This game was developed for study purpose, the Hour Of Code problems were solved, but instead of using blueprints, the elements were made using C++.
 
-[Repo](https://github.com/FNMariani/UE4.HOC)
+[Repo](https://github.com/FNMariani/UE4.HOC)\
 [Build v1.0](https://drive.google.com/file/d/1Wz-nC8UVATOlzF4tbx3Q84HaiL_285N6/view?usp=sharing) (450mb~)
 
 ## MarsMarine [Blueprints] [GameDevTV]
@@ -65,5 +65,5 @@ This game was developed for study purpose, the Hour Of Code problems were solved
 This game was developed for study purpose, over the course [Unreal Engine Blueprint Developer: Learn Visual Scripting].
 The player must survive during waves of monsters. This game is a shooter, that use top-down camera.
 
-[Repo](https://github.com/FNMariani/MarsMarine)
+[Repo](https://github.com/FNMariani/MarsMarine)\
 [Build v1.0](https://github.com/FNMariani/MarsMarine/releases/download/v1.0/MarsMarine.zip)
