@@ -11,7 +11,7 @@ _Institution:_ Universidad Nacional del Litoral
 
 _Degree:_ University Programmer\
 _Institution:_ Universidad Nacional de Tucumán\
-_Year:_ 1st Year In-Progress\
+_Year:_ 1st Year In-Progress
 
 # Skills & Hobbies
 ##  SKILLS:
