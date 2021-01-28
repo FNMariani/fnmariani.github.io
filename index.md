@@ -7,6 +7,7 @@ title: Facundo Nicolas Mariani
 ## UNIVERSITY STUDIES
 
 _Degree:_ Technician in Design and Programming of Videogames
+
 _Institution:_ Universidad Nacional del Litoral 
 
 _Degree:_ University Programmer
@@ -54,16 +55,7 @@ _Year:_ 1st Year In-Progress
 ### Description
 This game was developed for study purpose, the Hour Of Code problems were solved, but instead of using blueprints, the elements were made using C++.
 
-### Features
-* Use your ability to reach the goal.
-* Collect boosters.
-
-### Controls
-
-* WASD - Movement
-* Space - Jump
-* Escape - Exit game
-
+[Repo](https://github.com/FNMariani/UE4.HOC)
 [Build v1.0](https://drive.google.com/file/d/1Wz-nC8UVATOlzF4tbx3Q84HaiL_285N6/view?usp=sharing) (450mb~)
 
 ## MarsMarine [Blueprints] [GameDevTV]
@@ -74,15 +66,5 @@ This game was developed for study purpose, the Hour Of Code problems were solved
 This game was developed for study purpose, over the course [Unreal Engine Blueprint Developer: Learn Visual Scripting].
 The player must survive during waves of monsters. This game is a shooter, that use top-down camera.
 
-### Features
-* Damage during time, while player isn't inside the specific area.
-* Random spawn of monsters.
-* Collectable that recover player's live.
-
-### Controls
-
-* LMB - Shoot
-* WASD - Move
-* Escape - Exit game
-
+[Repo](https://github.com/FNMariani/MarsMarine)
 [Build v1.0](https://github.com/FNMariani/MarsMarine/releases/download/v1.0/MarsMarine.zip)
