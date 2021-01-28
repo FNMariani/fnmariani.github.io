@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ME | Facundo Nicolas Mariani
+title: Facundo Nicolas Mariani
 ---
 
 # Education
