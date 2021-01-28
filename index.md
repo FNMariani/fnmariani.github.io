@@ -6,12 +6,11 @@ title: Facundo Nicolas Mariani
 # Education
 ## UNIVERSITY STUDIES
 
-_Degree:_ Technician in Design and Programming of Videogames
-
-_Institution:_ Universidad Nacional del Litoral 
+Degree: Technician in Design and Programming of Videogames
+Institution: Universidad Nacional del Litoral 
 
 _Degree:_ University Programmer
-_Institution:_ Universidad Nacional de Tucumán
+Institution: Universidad Nacional de Tucumán
 _Year:_ 1st Year In-Progress
 
 # Skills & Hobbies
