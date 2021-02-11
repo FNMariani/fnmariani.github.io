@@ -274,3 +274,9 @@ footer {
     color:#444;
   }
 }
+
+@media print, screen and (max-height: 720px) {
+  img {
+    display: none;
+  }
+}
