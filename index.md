@@ -67,3 +67,13 @@ The player must survive during waves of monsters. This game is a shooter, that u
 
 [Repo](https://github.com/FNMariani/MarsMarine)\
 [Build v1.0](https://github.com/FNMariani/MarsMarine/releases/download/v1.0/MarsMarine.zip)
+
+
+# Personal Projects:
+## Systems:
+
+### Description
+This project was developed for study purpose. It is made up of simplified versions of different systems (all written in C++):
+Day and Night Cycle, Inventory, Minimap, NPCs, Weapons. 
+
+[Repo](https://github.com/FNMariani/Systems)
